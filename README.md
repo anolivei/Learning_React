@@ -79,6 +79,8 @@ npm start
 ```bash
 # To create an app
 npx create-react-app my-app
+sudo npm install react-router-dom
+sudo npm install -g react-scripts
 
 ```
 
