@@ -39,13 +39,11 @@
 
 ## About ##
 
-Describe your project
+todo
 
 ## Features ##
 
-Feature 1;\
-Feature 2;\
-Feature 3;
+todo
 
 ## Technologies ##
 
@@ -68,13 +66,10 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 git clone https://github.com/anolivei/learning_react
 
 # Access
-cd learning_react
-
-# Install dependencies
-yarn
+cd learning_react/my-app
 
 # Run the project
-yarn start
+npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```
@@ -89,7 +84,7 @@ npx create-react-app my-app
 
 ## License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 &#xa0;
